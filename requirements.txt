@@ -2,3 +2,8 @@ aiohttp
 pandas 
 scikit-learn 
 pyfiglet
+asyncio
+base64
+hashlib
+json
+os
