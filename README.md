@@ -25,7 +25,7 @@ This project leverages **machine learning** models and **VirusTotal API** for en
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/excalibur.git
+git clone https://github.com/Dawn-Fighter/excalibur.git
 cd excalibur
 ```
 
